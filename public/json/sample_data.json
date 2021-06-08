@@ -1,0 +1,4 @@
+{
+    "originalImage": ["./images/original.png", "./images/original1.png"],
+    "maskImage": [ "./images/mask.png", "./images/mask1.png"]
+}
